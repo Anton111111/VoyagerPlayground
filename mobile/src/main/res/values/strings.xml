@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Anorak</string>
+
+    <string name="bottom_bar_search">Search</string>
+    <string name="bottom_bar_torrents">Torrents</string>
+    <string name="bottom_bar_settings">Settings</string>
+</resources>

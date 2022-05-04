@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tmdb">TMDB</string>
+    <string name="kinopoisk">Kinopoisk</string>
+    <string name="back">Back</string>
+    <string name="text_divider" translatable="false">&#160;\u2022&#160;</string>
+    <string name="movies_search_box_clear">Clear</string>
+    <string name="movies_search_box_search">Search</string>
+    <string name="movies_search_empty_state">Seek, and you shall find!</string>
+    <string name="movies_search_no_results_state">No movies found ;(</string>
+    <string name="movies_search_error_state">Can\'t load movies. Check your internet connection and try again.</string>
+    <string name="movies_search_try_again">Try again</string>
+    <string name="movies_details_runtime_hours">%1$dh</string>
+    <string name="movies_details_runtime_minutes">%1$dm</string>
+    <string name="movies_details_back">@string/back</string>
+    <string name="movies_details_torrents_button">Torrents</string>
+    <string name="movies_details_genres">Genres</string>
+    <plurals name="movies_details_tv_seasons">
+        <item quantity="zero">%1$d seasons</item>
+        <item quantity="one">%1$d season</item>
+        <item quantity="two">%1$d seasons</item>
+        <item quantity="few">%1$d seasons</item>
+        <item quantity="many">%1$d seasons</item>
+        <item quantity="other">%1$d seasons</item>
+    </plurals>
+</resources>
